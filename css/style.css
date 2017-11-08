@@ -138,7 +138,7 @@ body {
     }
 }
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 720px){
     body {
         grid-template-columns: repeat(5, 1fr);
         grid-template-rows: repeat(20, 1fr);
